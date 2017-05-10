@@ -8,7 +8,6 @@
     "prism", "-highlight",
     "-lunr", "-search", "search-plus",
     "codesnippet",
-    "ga",
     "splitter",
     "sitemap",
     "page-toc-button",
