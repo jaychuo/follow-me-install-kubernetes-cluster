@@ -11,8 +11,7 @@
     "splitter",
     "page-toc-button",
     "image-captions",
-    "page-footer-ex",
-    "multipart"
+    "page-footer-ex"
   ],
   "pluginsConfig": {
     "image-captions": {
