@@ -34,13 +34,6 @@
     "disqus": {
       "shortName": "knowl"
     },
-    "github": {
-      "url": "https://github.com/opsnull/follow-me-install-kubernetes-cluster"
-    },
-    "editlink": {
-      "base": "https://github.com/opsnull/follow-me-install-kubernetes-cluster/blob/master/",
-      "label": "编辑本页"
-    },
     "baidu": {
         "token": "3a6c58f0013d3cc4ec3e56984c135511"
     },
@@ -57,9 +50,6 @@
     },
     "tags": {
         "placement": "bottom"
-    },
-    "sharing": {
-        
     }
   }
 }
