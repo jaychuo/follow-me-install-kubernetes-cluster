@@ -44,7 +44,7 @@
         "hostname": "http://k8s.opsnull.com"
     },
     "page-footer-ex":{
-        "copyright":"zhangjun",
+        "copyright":"daipeng",
         "update_label":"最后更新：",
         "update_format":"YYYY-MM-DD HH:mm:ss"
     },

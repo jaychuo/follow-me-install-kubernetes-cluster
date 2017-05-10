@@ -19,7 +19,7 @@
 
 ## 标签集合
 
-* \[标签\]
+* aaaaaa
 * [dddd](biao-qian-ji-he/dddd.md)
   * [\[dddd\]](biao-qian-ji-he/dddd/dddd.md)
   * [\[dafsdfasdfasd\]](biao-qian-ji-he/dddd/dafsdfasdfasd.md)
